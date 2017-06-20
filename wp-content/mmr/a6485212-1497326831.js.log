@@ -1,0 +1,15 @@
+2017-06-15T08:46:43+00:00 - MERGED:
+ - jquery-form - http://www.trustylabs.mg/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js - unminified version used
+ - contact-form-7 - http://www.trustylabs.mg/wp-content/plugins/contact-form-7/includes/js/scripts.js
+ - ninzio-projects-ajax - http://www.trustylabs.mg/wp-content/plugins/ninzio-addons/js/ninzio-projects-ajax.js
+ - wc-add-to-cart - //www.trustylabs.mg/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js - unminified version used
+ - jquery-blockui - //www.trustylabs.mg/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js - unminified version used
+ - woocommerce - //www.trustylabs.mg/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js - unminified version used
+ - jquery-cookie - //www.trustylabs.mg/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js - unminified version used
+ - wc-cart-fragments - //www.trustylabs.mg/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js - unminified version used
+ - smoothscroll - http://www.trustylabs.mg/wp-content/themes/montserrat/js/smoothscroll.js
+ - masonry - /wp-includes/js/masonry.min.js
+ - shuffle - http://www.trustylabs.mg/wp-content/themes/montserrat/js/jquery.shuffle.js
+ - controller - http://www.trustylabs.mg/wp-content/themes/montserrat/js/controller.js
+ - montserrat-contact-form - http://www.trustylabs.mg/wp-content/themes/montserrat/js/montserrat-contact-form.js
+ - wp-embed - /wp-includes/js/wp-embed.min.js - unminified version used

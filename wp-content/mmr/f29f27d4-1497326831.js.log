@@ -1,0 +1,7 @@
+2017-06-15T08:46:43+00:00 - MERGED:
+ - admin-bar - /wp-includes/js/admin-bar.min.js - unminified version used
+ - jquery-core - /wp-includes/js/jquery/jquery.js
+ - jquery-migrate - /wp-includes/js/jquery/jquery-migrate.min.js - unminified version used
+ - tp-tools - http://www.trustylabs.mg/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js
+ - revmin - http://www.trustylabs.mg/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js
+ - vc_woocommerce-add-to-cart-js - http://www.trustylabs.mg/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js

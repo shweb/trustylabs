@@ -1,0 +1,7 @@
+2017-06-15T11:34:23+00:00 - MERGED:
+ - modernizr - http://www.trustylabs.mg/wp-content/themes/montserrat/js/modernizr.js
+ - imagesloaded - /wp-includes/js/imagesloaded.min.js
+ - wp-util - /wp-includes/js/wp-util.min.js - unminified version used
+ - customize-selective-refresh - /wp-includes/js/customize-selective-refresh.min.js - unminified version used
+ - customize-preview-widgets - /wp-includes/js/customize-preview-widgets.min.js - unminified version used
+ - customize-preview-nav-menus - /wp-includes/js/customize-preview-nav-menus.min.js - unminified version used

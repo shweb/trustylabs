@@ -1,0 +1,8 @@
+2017-06-15T11:34:23+00:00 - MERGED:
+ - underscore - /wp-includes/js/underscore.min.js
+ - customize-base - /wp-includes/js/customize-base.min.js - unminified version used
+ - customize-preview - /wp-includes/js/customize-preview.min.js - unminified version used
+ - tp-tools - http://www.trustylabs.mg/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js
+ - revmin - http://www.trustylabs.mg/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js
+ - vc_woocommerce-add-to-cart-js - http://www.trustylabs.mg/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js
+ - comment-reply - /wp-includes/js/comment-reply.min.js - unminified version used
