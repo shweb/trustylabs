@@ -10,3 +10,15 @@
 
 /* =Theme customization starts here
 -------------------------------------------------------------- */
+@media max width=799 {
+.mob-header .logo a img{
+max-height: 70px !important;
+}
+}
+
+.fixed-logo{
+
+/*max-height: 70px !important; */
+}
+
+}
