@@ -10,15 +10,36 @@
 
 /* =Theme customization starts here
 -------------------------------------------------------------- */
-@media max width=799 {
-.mob-header .logo a img{
+
+@media (min-width: 1100px) {
+.version1.full-width-true .container, .version2.full-width-true .container, .version3.full-width-true .container {
+    width: 1170px !important;
+}
+.logo, logo-desk{
+padding-right:0 !important;
+}
+.version1 .desk-menu > ul:after{
+	display:none !important;
+}
+}
+
+@media (max-width: 1099px) {
+.mob-header .logo a img , .fixed-logo{
 max-height: 70px !important;
 }
+
+.mob-header-top{
+    height: 150px !important;
+    line-height: 150px !important;
+}
+.mob-header-top .mob-menu-toggle, .mob-sidebar-toggle {
+    top: 60px !important;
+}
 }
 
-.fixed-logo{
 
-/*max-height: 70px !important; */
+@media (max-width: 299px) {
+.mob-header .logo a img , .fixed-logo{
+max-height: 45px !important;
 }
-
 }
